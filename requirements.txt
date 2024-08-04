@@ -1,0 +1,5 @@
+flask
+lxml[html_clean]
+newspaper4k
+openai
+weaviate-client
